@@ -1,0 +1,6 @@
+# Used by Vercel. Keep in sync with backend/requirements.txt (used by Docker and local dev).
+flask
+flask-cors
+requests
+python-dotenv
+psycopg[binary]

@@ -1,0 +1,22 @@
+# backend
+__pycache__/
+.venv/
+venv/
+*.db
+.env
+.env.*
+!.env.example
+
+# frontend
+node_modules/
+dist/
+
+# deploy
+.vercel/
+
+# original full-size media (not served, kept locally only)
+media-originals/
+
+# misc
+.DS_Store
+.vscode/
