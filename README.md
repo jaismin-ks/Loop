@@ -6,7 +6,7 @@
 
 A full-stack gaming hub where you track your game library, wishlist titles, get notified when prices drop, get personalized recommendations, and buy game keys, all in one place.
 
-### [**▶ Try the live demo**](https://loop-nine-sigma.vercel.app/)
+### [**▶ Live demo**](https://loop-nine-sigma.vercel.app/)
 
 No sign-up needed: click **Continue as Guest** on the login page.
 
