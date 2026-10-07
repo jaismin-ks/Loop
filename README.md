@@ -48,7 +48,7 @@ A personalized gaming library organizer, discovery platform, and game key store.
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jaismin-ks/Loop
 cd Loop
 ```
 
